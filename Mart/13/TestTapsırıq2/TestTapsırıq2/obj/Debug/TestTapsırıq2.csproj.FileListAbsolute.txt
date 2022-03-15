@@ -1,0 +1,7 @@
+C:\Users\parku\OneDrive\İş masası\Programming\lessons\Mart\13\TestTapsırıq2\TestTapsırıq2\bin\Debug\TestTapsırıq2.exe.config
+C:\Users\parku\OneDrive\İş masası\Programming\lessons\Mart\13\TestTapsırıq2\TestTapsırıq2\bin\Debug\TestTapsırıq2.exe
+C:\Users\parku\OneDrive\İş masası\Programming\lessons\Mart\13\TestTapsırıq2\TestTapsırıq2\bin\Debug\TestTapsırıq2.pdb
+C:\Users\parku\OneDrive\İş masası\Programming\lessons\Mart\13\TestTapsırıq2\TestTapsırıq2\obj\Debug\TestTapsırıq2.csprojAssemblyReference.cache
+C:\Users\parku\OneDrive\İş masası\Programming\lessons\Mart\13\TestTapsırıq2\TestTapsırıq2\obj\Debug\TestTapsırıq2.csproj.CoreCompileInputs.cache
+C:\Users\parku\OneDrive\İş masası\Programming\lessons\Mart\13\TestTapsırıq2\TestTapsırıq2\obj\Debug\TestTapsırıq2.exe
+C:\Users\parku\OneDrive\İş masası\Programming\lessons\Mart\13\TestTapsırıq2\TestTapsırıq2\obj\Debug\TestTapsırıq2.pdb
